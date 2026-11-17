@@ -1,0 +1,90 @@
+[
+  {
+    "nim": "2301001",
+    "name": "Andi",
+    "program": "Teknik Komputer",
+    "score": 85,
+    "attendance": 92,
+    "status": "Lulus"
+  },
+  {
+    "nim": "2301002",
+    "name": "Budi",
+    "program": "Informatika",
+    "score": 72,
+    "attendance": 81,
+    "status": "Remedial"
+  },
+  {
+    "nim": "2301003",
+    "name": "Citra",
+    "program": "Teknik Komputer",
+    "score": 92,
+    "attendance": 95,
+    "status": "Lulus dengan Pujian"
+  },
+  {
+    "nim": "2301004",
+    "name": "Dewi",
+    "program": "Sistem Informasi",
+    "score": 88,
+    "attendance": 70,
+    "status": "Peringatan Kehadiran"
+  },
+  {
+    "nim": "2301005",
+    "name": "Eka",
+    "program": "Informatika",
+    "score": 0,
+    "attendance": 80,
+    "status": "Tidak Lulus"
+  },
+  {
+    "nim": "2301006",
+    "name": "Fajar",
+    "program": "Teknik Komputer",
+    "score": 64,
+    "attendance": 76,
+    "status": "Remedial"
+  },
+  {
+    "nim": "2301007",
+    "name": "Gita",
+    "program": "Sistem Informasi",
+    "score": 91,
+    "attendance": 90,
+    "status": "Lulus dengan Pujian"
+  },
+  {
+    "nim": "2301008",
+    "name": "Hadi",
+    "program": "Informatika",
+    "score": 58,
+    "attendance": 85,
+    "status": "Tidak Lulus"
+  },
+  {
+    "nim": "2301009",
+    "name": "Indah",
+    "program": "Teknik Komputer",
+    "score": 80,
+    "attendance": 75,
+    "status": "Lulus"
+  },
+  {
+    "nim": "2301010",
+    "name": "Joko",
+    "program": "Sistem Informasi",
+    "score": 79,
+    "attendance": 60,
+    "status": "Peringatan Kehadiran"
+  },
+  {
+    "nim": "25831158",
+    "name": "Valentino",
+    "program": "Teknik Komputer",
+    "score": 93,
+    "attendance": 98,
+    "status": "Lulus dengan Pujian"
+  }
+]

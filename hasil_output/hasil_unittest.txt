@@ -1,0 +1,26 @@
+test_bad_json (test_student_manager.TestFiles.test_bad_json) ... ok
+test_invalid_rows_collected (test_student_manager.TestFiles.test_invalid_rows_collected) ... Baris 3 ditolak: Nilai harus bilangan bulat.
+ok
+test_missing_column (test_student_manager.TestFiles.test_missing_column) ... ok
+test_missing_file (test_student_manager.TestFiles.test_missing_file) ... ok
+test_add_student_no_mutation_and_duplicate (test_student_manager.TestProcessing.test_add_student_no_mutation_and_duplicate) ... ok
+test_average_empty_is_none (test_student_manager.TestProcessing.test_average_empty_is_none) ... ok
+test_ranking_does_not_mutate (test_student_manager.TestProcessing.test_ranking_does_not_mutate) ... ok
+test_ranking_ties_share_rank (test_student_manager.TestProcessing.test_ranking_ties_share_rank) ... ok
+test_remove_duplicates (test_student_manager.TestProcessing.test_remove_duplicates) ... ok
+test_search (test_student_manager.TestProcessing.test_search) ... ok
+test_summary_empty_no_division_error (test_student_manager.TestProcessing.test_summary_empty_no_division_error) ... ok
+test_unique_programs_is_set (test_student_manager.TestProcessing.test_unique_programs_is_set) ... ok
+test_boundaries (test_student_manager.TestStatus.test_boundaries) ... ok
+test_priority_attendance_first (test_student_manager.TestStatus.test_priority_attendance_first) ... ok
+test_zero_score_is_valid (test_student_manager.TestStatus.test_zero_score_is_valid) ... ok
+test_empty_name_custom_error (test_student_manager.TestValidation.test_empty_name_custom_error) ... ok
+test_parse_int_message (test_student_manager.TestValidation.test_parse_int_message) ... ok
+test_rejects_bad_values (test_student_manager.TestValidation.test_rejects_bad_values) ... ok
+test_valid_student_is_stripped (test_student_manager.TestValidation.test_valid_student_is_stripped) ... ok
+test_zero_accepted (test_student_manager.TestValidation.test_zero_accepted) ... ok
+
+----------------------------------------------------------------------
+Ran 20 tests in 0.002s
+
+OK

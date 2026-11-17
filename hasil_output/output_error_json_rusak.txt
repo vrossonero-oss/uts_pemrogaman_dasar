@@ -1,0 +1,36 @@
+ERROR: Format data tidak valid: JSON rusak (Expecting ',' delimiter: line 3 column 1 (char 133))
+Format data tidak valid: JSON rusak (Expecting ',' delimiter: line 3 column 1 (char 133)). Program dimulai dengan data kosong.
+
+========================================
+        STUDENT GRADE MANAGER
+========================================
+1. Tampilkan semua mahasiswa
+2. Cari mahasiswa berdasarkan NIM
+3. Filter berdasarkan status
+4. Filter berdasarkan program studi
+5. Rekap per program studi
+6. Ranking nilai
+7. Ringkasan statistik
+8. Tambah mahasiswa
+9. Simpan JSON dan ekspor laporan CSV
+0. Keluar
+========================================
+Pilihan: 1
+Belum ada data.
+
+========================================
+        STUDENT GRADE MANAGER
+========================================
+1. Tampilkan semua mahasiswa
+2. Cari mahasiswa berdasarkan NIM
+3. Filter berdasarkan status
+4. Filter berdasarkan program studi
+5. Rekap per program studi
+6. Ranking nilai
+7. Ringkasan statistik
+8. Tambah mahasiswa
+9. Simpan JSON dan ekspor laporan CSV
+0. Keluar
+========================================
+Pilihan: 0
+Selesai.

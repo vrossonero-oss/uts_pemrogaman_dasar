@@ -1,0 +1,15 @@
+INFO: Program dimulai
+WARNING: Baris 13 ditolak: Nama wajib diisi.
+WARNING: Baris 14 ditolak: Nilai harus antara 0 dan 100.
+WARNING: Baris 15 ditolak: Nilai harus bilangan bulat.
+INFO: Data dimuat: 10 valid, 1 duplikat, 3 ditolak
+WARNING: Input ditolak: NIM sudah terdaftar.
+WARNING: Input ditolak: Nilai harus bilangan bulat.
+INFO: Mahasiswa ditambahkan: NIM 2301020
+INFO: Pencarian NIM 9999999: tidak ditemukan
+WARNING: Status tidak dikenal: xyz
+WARNING: Pilihan menu tidak tersedia: 'z'
+INFO: 11 record disimpan ke students.json
+INFO: Laporan CSV dibuat: laporan_nilai.csv
+INFO: Laporan teks dibuat: laporan_nilai.txt
+INFO: Program selesai

@@ -1,0 +1,3 @@
+score=None  bug -> Belum ada nilai  fix -> Belum ada nilai
+score=0     bug -> Belum ada nilai  fix -> Ada nilai
+score=80    bug -> Ada nilai        fix -> Ada nilai

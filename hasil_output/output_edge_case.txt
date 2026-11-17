@@ -1,0 +1,189 @@
+Data dimuat: 10 mahasiswa, 1 duplikat dibuang, 3 baris ditolak.
+  Baris 13: Nama wajib diisi.
+  Baris 14: Nilai harus antara 0 dan 100.
+  Baris 15: Nilai harus bilangan bulat.
+
+========================================
+        STUDENT GRADE MANAGER
+========================================
+1. Tampilkan semua mahasiswa
+2. Cari mahasiswa berdasarkan NIM
+3. Filter berdasarkan status
+4. Filter berdasarkan program studi
+5. Rekap per program studi
+6. Ranking nilai
+7. Ringkasan statistik
+8. Tambah mahasiswa
+9. Simpan JSON dan ekspor laporan CSV
+0. Keluar
+========================================
+Pilihan: 8
+NIM: 2301001
+Input salah: NIM sudah terdaftar.
+NIM: 
+Input salah: NIM wajib diisi.
+NIM: abc
+Input salah: NIM harus berupa angka.
+NIM: 2301020
+Nama:    
+Input salah: Nama wajib diisi.
+Nama: Nina
+Program studi: Sistem Informasi
+Nilai (0-100): abc
+Input salah: Nilai harus bilangan bulat.
+Nilai (0-100): 101
+Input salah: Nilai harus antara 0 dan 100.
+Nilai (0-100): -5
+Input salah: Nilai harus antara 0 dan 100.
+Nilai (0-100): 0
+Kehadiran % (0-100): 75
+Data ditambahkan.
+
+========================================
+        STUDENT GRADE MANAGER
+========================================
+1. Tampilkan semua mahasiswa
+2. Cari mahasiswa berdasarkan NIM
+3. Filter berdasarkan status
+4. Filter berdasarkan program studi
+5. Rekap per program studi
+6. Ranking nilai
+7. Ringkasan statistik
+8. Tambah mahasiswa
+9. Simpan JSON dan ekspor laporan CSV
+0. Keluar
+========================================
+Pilihan: 7
+Jumlah: 11
+Rata-rata: 64.45
+Minimum: 0 | Maksimum: 92
+Lulus (termasuk pujian): 4
+  Lulus: 2
+  Remedial: 2
+  Lulus dengan Pujian: 2
+  Peringatan Kehadiran: 2
+  Tidak Lulus: 3
+
+========================================
+        STUDENT GRADE MANAGER
+========================================
+1. Tampilkan semua mahasiswa
+2. Cari mahasiswa berdasarkan NIM
+3. Filter berdasarkan status
+4. Filter berdasarkan program studi
+5. Rekap per program studi
+6. Ranking nilai
+7. Ringkasan statistik
+8. Tambah mahasiswa
+9. Simpan JSON dan ekspor laporan CSV
+0. Keluar
+========================================
+Pilihan: 2
+Masukkan NIM: 2301020
+NIM     : 2301020
+Nama    : Nina
+Program : Sistem Informasi
+Nilai   : 0
+Hadir   : 75%
+Status  : Tidak Lulus
+
+========================================
+        STUDENT GRADE MANAGER
+========================================
+1. Tampilkan semua mahasiswa
+2. Cari mahasiswa berdasarkan NIM
+3. Filter berdasarkan status
+4. Filter berdasarkan program studi
+5. Rekap per program studi
+6. Ranking nilai
+7. Ringkasan statistik
+8. Tambah mahasiswa
+9. Simpan JSON dan ekspor laporan CSV
+0. Keluar
+========================================
+Pilihan: 3
+Pilihan status: Peringatan Kehadiran, Lulus dengan Pujian, Lulus, Remedial, Tidak Lulus
+Status: Tidak Lulus
+1. 2301005 | Eka | Informatika | 0 | 80% | Tidak Lulus
+2. 2301008 | Hadi | Informatika | 58 | 85% | Tidak Lulus
+3. 2301020 | Nina | Sistem Informasi | 0 | 75% | Tidak Lulus
+
+========================================
+        STUDENT GRADE MANAGER
+========================================
+1. Tampilkan semua mahasiswa
+2. Cari mahasiswa berdasarkan NIM
+3. Filter berdasarkan status
+4. Filter berdasarkan program studi
+5. Rekap per program studi
+6. Ranking nilai
+7. Ringkasan statistik
+8. Tambah mahasiswa
+9. Simpan JSON dan ekspor laporan CSV
+0. Keluar
+========================================
+Pilihan: 3
+Pilihan status: Peringatan Kehadiran, Lulus dengan Pujian, Lulus, Remedial, Tidak Lulus
+Status: xyz
+Status tidak dikenal.
+
+========================================
+        STUDENT GRADE MANAGER
+========================================
+1. Tampilkan semua mahasiswa
+2. Cari mahasiswa berdasarkan NIM
+3. Filter berdasarkan status
+4. Filter berdasarkan program studi
+5. Rekap per program studi
+6. Ranking nilai
+7. Ringkasan statistik
+8. Tambah mahasiswa
+9. Simpan JSON dan ekspor laporan CSV
+0. Keluar
+========================================
+Pilihan: z
+Pilihan tidak tersedia.
+
+========================================
+        STUDENT GRADE MANAGER
+========================================
+1. Tampilkan semua mahasiswa
+2. Cari mahasiswa berdasarkan NIM
+3. Filter berdasarkan status
+4. Filter berdasarkan program studi
+5. Rekap per program studi
+6. Ranking nilai
+7. Ringkasan statistik
+8. Tambah mahasiswa
+9. Simpan JSON dan ekspor laporan CSV
+0. Keluar
+========================================
+Pilihan: 6
+Rank 1: Citra - 92 (Teknik Komputer)
+Rank 2: Gita - 91 (Sistem Informasi)
+Rank 3: Dewi - 88 (Sistem Informasi)
+Rank 4: Andi - 85 (Teknik Komputer)
+Rank 5: Indah - 80 (Teknik Komputer)
+Rank 6: Joko - 79 (Sistem Informasi)
+Rank 7: Budi - 72 (Informatika)
+Rank 8: Fajar - 64 (Teknik Komputer)
+Rank 9: Hadi - 58 (Informatika)
+Rank 10: Eka - 0 (Informatika)
+Rank 10: Nina - 0 (Sistem Informasi)
+
+========================================
+        STUDENT GRADE MANAGER
+========================================
+1. Tampilkan semua mahasiswa
+2. Cari mahasiswa berdasarkan NIM
+3. Filter berdasarkan status
+4. Filter berdasarkan program studi
+5. Rekap per program studi
+6. Ranking nilai
+7. Ringkasan statistik
+8. Tambah mahasiswa
+9. Simpan JSON dan ekspor laporan CSV
+0. Keluar
+========================================
+Pilihan: 0
+Selesai.

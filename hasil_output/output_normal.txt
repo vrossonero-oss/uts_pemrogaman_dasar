@@ -1,0 +1,265 @@
+Data dimuat: 10 mahasiswa, 1 duplikat dibuang, 3 baris ditolak.
+  Baris 13: Nama wajib diisi.
+  Baris 14: Nilai harus antara 0 dan 100.
+  Baris 15: Nilai harus bilangan bulat.
+
+========================================
+        STUDENT GRADE MANAGER
+========================================
+1. Tampilkan semua mahasiswa
+2. Cari mahasiswa berdasarkan NIM
+3. Filter berdasarkan status
+4. Filter berdasarkan program studi
+5. Rekap per program studi
+6. Ranking nilai
+7. Ringkasan statistik
+8. Tambah mahasiswa
+9. Simpan JSON dan ekspor laporan CSV
+0. Keluar
+========================================
+Pilihan: 1
+1. 2301001 | Andi | Teknik Komputer | 85 | 92% | Lulus
+2. 2301002 | Budi | Informatika | 72 | 81% | Remedial
+3. 2301003 | Citra | Teknik Komputer | 92 | 95% | Lulus dengan Pujian
+4. 2301004 | Dewi | Sistem Informasi | 88 | 70% | Peringatan Kehadiran
+5. 2301005 | Eka | Informatika | 0 | 80% | Tidak Lulus
+6. 2301006 | Fajar | Teknik Komputer | 64 | 76% | Remedial
+7. 2301007 | Gita | Sistem Informasi | 91 | 90% | Lulus dengan Pujian
+8. 2301008 | Hadi | Informatika | 58 | 85% | Tidak Lulus
+9. 2301009 | Indah | Teknik Komputer | 80 | 75% | Lulus
+10. 2301010 | Joko | Sistem Informasi | 79 | 60% | Peringatan Kehadiran
+
+========================================
+        STUDENT GRADE MANAGER
+========================================
+1. Tampilkan semua mahasiswa
+2. Cari mahasiswa berdasarkan NIM
+3. Filter berdasarkan status
+4. Filter berdasarkan program studi
+5. Rekap per program studi
+6. Ranking nilai
+7. Ringkasan statistik
+8. Tambah mahasiswa
+9. Simpan JSON dan ekspor laporan CSV
+0. Keluar
+========================================
+Pilihan: 2
+Masukkan NIM: 2301003
+NIM     : 2301003
+Nama    : Citra
+Program : Teknik Komputer
+Nilai   : 92
+Hadir   : 95%
+Status  : Lulus dengan Pujian
+
+========================================
+        STUDENT GRADE MANAGER
+========================================
+1. Tampilkan semua mahasiswa
+2. Cari mahasiswa berdasarkan NIM
+3. Filter berdasarkan status
+4. Filter berdasarkan program studi
+5. Rekap per program studi
+6. Ranking nilai
+7. Ringkasan statistik
+8. Tambah mahasiswa
+9. Simpan JSON dan ekspor laporan CSV
+0. Keluar
+========================================
+Pilihan: 2
+Masukkan NIM: 9999999
+Mahasiswa tidak ditemukan.
+
+========================================
+        STUDENT GRADE MANAGER
+========================================
+1. Tampilkan semua mahasiswa
+2. Cari mahasiswa berdasarkan NIM
+3. Filter berdasarkan status
+4. Filter berdasarkan program studi
+5. Rekap per program studi
+6. Ranking nilai
+7. Ringkasan statistik
+8. Tambah mahasiswa
+9. Simpan JSON dan ekspor laporan CSV
+0. Keluar
+========================================
+Pilihan: 3
+Pilihan status: Peringatan Kehadiran, Lulus dengan Pujian, Lulus, Remedial, Tidak Lulus
+Status: Lulus dengan Pujian
+1. 2301003 | Citra | Teknik Komputer | 92 | 95% | Lulus dengan Pujian
+2. 2301007 | Gita | Sistem Informasi | 91 | 90% | Lulus dengan Pujian
+
+========================================
+        STUDENT GRADE MANAGER
+========================================
+1. Tampilkan semua mahasiswa
+2. Cari mahasiswa berdasarkan NIM
+3. Filter berdasarkan status
+4. Filter berdasarkan program studi
+5. Rekap per program studi
+6. Ranking nilai
+7. Ringkasan statistik
+8. Tambah mahasiswa
+9. Simpan JSON dan ekspor laporan CSV
+0. Keluar
+========================================
+Pilihan: 4
+Program studi: Informatika, Sistem Informasi, Teknik Komputer
+Program studi: Informatika
+1. 2301002 | Budi | Informatika | 72 | 81% | Remedial
+2. 2301005 | Eka | Informatika | 0 | 80% | Tidak Lulus
+3. 2301008 | Hadi | Informatika | 58 | 85% | Tidak Lulus
+
+========================================
+        STUDENT GRADE MANAGER
+========================================
+1. Tampilkan semua mahasiswa
+2. Cari mahasiswa berdasarkan NIM
+3. Filter berdasarkan status
+4. Filter berdasarkan program studi
+5. Rekap per program studi
+6. Ranking nilai
+7. Ringkasan statistik
+8. Tambah mahasiswa
+9. Simpan JSON dan ekspor laporan CSV
+0. Keluar
+========================================
+Pilihan: 5
+Informatika: 3 mahasiswa, rata-rata 43.33
+Sistem Informasi: 3 mahasiswa, rata-rata 86.00
+Teknik Komputer: 4 mahasiswa, rata-rata 80.25
+
+========================================
+        STUDENT GRADE MANAGER
+========================================
+1. Tampilkan semua mahasiswa
+2. Cari mahasiswa berdasarkan NIM
+3. Filter berdasarkan status
+4. Filter berdasarkan program studi
+5. Rekap per program studi
+6. Ranking nilai
+7. Ringkasan statistik
+8. Tambah mahasiswa
+9. Simpan JSON dan ekspor laporan CSV
+0. Keluar
+========================================
+Pilihan: 6
+Rank 1: Citra - 92 (Teknik Komputer)
+Rank 2: Gita - 91 (Sistem Informasi)
+Rank 3: Dewi - 88 (Sistem Informasi)
+Rank 4: Andi - 85 (Teknik Komputer)
+Rank 5: Indah - 80 (Teknik Komputer)
+Rank 6: Joko - 79 (Sistem Informasi)
+Rank 7: Budi - 72 (Informatika)
+Rank 8: Fajar - 64 (Teknik Komputer)
+Rank 9: Hadi - 58 (Informatika)
+Rank 10: Eka - 0 (Informatika)
+
+========================================
+        STUDENT GRADE MANAGER
+========================================
+1. Tampilkan semua mahasiswa
+2. Cari mahasiswa berdasarkan NIM
+3. Filter berdasarkan status
+4. Filter berdasarkan program studi
+5. Rekap per program studi
+6. Ranking nilai
+7. Ringkasan statistik
+8. Tambah mahasiswa
+9. Simpan JSON dan ekspor laporan CSV
+0. Keluar
+========================================
+Pilihan: 7
+Jumlah: 10
+Rata-rata: 70.90
+Minimum: 0 | Maksimum: 92
+Lulus (termasuk pujian): 4
+  Lulus: 2
+  Remedial: 2
+  Lulus dengan Pujian: 2
+  Peringatan Kehadiran: 2
+  Tidak Lulus: 2
+
+========================================
+        STUDENT GRADE MANAGER
+========================================
+1. Tampilkan semua mahasiswa
+2. Cari mahasiswa berdasarkan NIM
+3. Filter berdasarkan status
+4. Filter berdasarkan program studi
+5. Rekap per program studi
+6. Ranking nilai
+7. Ringkasan statistik
+8. Tambah mahasiswa
+9. Simpan JSON dan ekspor laporan CSV
+0. Keluar
+========================================
+Pilihan: 8
+NIM: 2301014
+Nama: Maya
+Program studi: Informatika
+Nilai (0-100): 88
+Kehadiran % (0-100): 95
+Data ditambahkan.
+
+========================================
+        STUDENT GRADE MANAGER
+========================================
+1. Tampilkan semua mahasiswa
+2. Cari mahasiswa berdasarkan NIM
+3. Filter berdasarkan status
+4. Filter berdasarkan program studi
+5. Rekap per program studi
+6. Ranking nilai
+7. Ringkasan statistik
+8. Tambah mahasiswa
+9. Simpan JSON dan ekspor laporan CSV
+0. Keluar
+========================================
+Pilihan: 1
+1. 2301001 | Andi | Teknik Komputer | 85 | 92% | Lulus
+2. 2301002 | Budi | Informatika | 72 | 81% | Remedial
+3. 2301003 | Citra | Teknik Komputer | 92 | 95% | Lulus dengan Pujian
+4. 2301004 | Dewi | Sistem Informasi | 88 | 70% | Peringatan Kehadiran
+5. 2301005 | Eka | Informatika | 0 | 80% | Tidak Lulus
+6. 2301006 | Fajar | Teknik Komputer | 64 | 76% | Remedial
+7. 2301007 | Gita | Sistem Informasi | 91 | 90% | Lulus dengan Pujian
+8. 2301008 | Hadi | Informatika | 58 | 85% | Tidak Lulus
+9. 2301009 | Indah | Teknik Komputer | 80 | 75% | Lulus
+10. 2301010 | Joko | Sistem Informasi | 79 | 60% | Peringatan Kehadiran
+11. 2301014 | Maya | Informatika | 88 | 95% | Lulus
+
+========================================
+        STUDENT GRADE MANAGER
+========================================
+1. Tampilkan semua mahasiswa
+2. Cari mahasiswa berdasarkan NIM
+3. Filter berdasarkan status
+4. Filter berdasarkan program studi
+5. Rekap per program studi
+6. Ranking nilai
+7. Ringkasan statistik
+8. Tambah mahasiswa
+9. Simpan JSON dan ekspor laporan CSV
+0. Keluar
+========================================
+Pilihan: 9
+File tersimpan di /home/claude/uts-student-manager/data/output
+
+========================================
+        STUDENT GRADE MANAGER
+========================================
+1. Tampilkan semua mahasiswa
+2. Cari mahasiswa berdasarkan NIM
+3. Filter berdasarkan status
+4. Filter berdasarkan program studi
+5. Rekap per program studi
+6. Ranking nilai
+7. Ringkasan statistik
+8. Tambah mahasiswa
+9. Simpan JSON dan ekspor laporan CSV
+0. Keluar
+========================================
+Pilihan: 0
+Selesai.

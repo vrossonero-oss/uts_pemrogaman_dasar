@@ -1,0 +1,103 @@
+Data dimuat: 0 mahasiswa, 0 duplikat dibuang, 0 baris ditolak.
+
+========================================
+        STUDENT GRADE MANAGER
+========================================
+1. Tampilkan semua mahasiswa
+2. Cari mahasiswa berdasarkan NIM
+3. Filter berdasarkan status
+4. Filter berdasarkan program studi
+5. Rekap per program studi
+6. Ranking nilai
+7. Ringkasan statistik
+8. Tambah mahasiswa
+9. Simpan JSON dan ekspor laporan CSV
+0. Keluar
+========================================
+Pilihan: 1
+Belum ada data.
+
+========================================
+        STUDENT GRADE MANAGER
+========================================
+1. Tampilkan semua mahasiswa
+2. Cari mahasiswa berdasarkan NIM
+3. Filter berdasarkan status
+4. Filter berdasarkan program studi
+5. Rekap per program studi
+6. Ranking nilai
+7. Ringkasan statistik
+8. Tambah mahasiswa
+9. Simpan JSON dan ekspor laporan CSV
+0. Keluar
+========================================
+Pilihan: 5
+Belum ada data.
+
+========================================
+        STUDENT GRADE MANAGER
+========================================
+1. Tampilkan semua mahasiswa
+2. Cari mahasiswa berdasarkan NIM
+3. Filter berdasarkan status
+4. Filter berdasarkan program studi
+5. Rekap per program studi
+6. Ranking nilai
+7. Ringkasan statistik
+8. Tambah mahasiswa
+9. Simpan JSON dan ekspor laporan CSV
+0. Keluar
+========================================
+Pilihan: 6
+Belum ada data.
+
+========================================
+        STUDENT GRADE MANAGER
+========================================
+1. Tampilkan semua mahasiswa
+2. Cari mahasiswa berdasarkan NIM
+3. Filter berdasarkan status
+4. Filter berdasarkan program studi
+5. Rekap per program studi
+6. Ranking nilai
+7. Ringkasan statistik
+8. Tambah mahasiswa
+9. Simpan JSON dan ekspor laporan CSV
+0. Keluar
+========================================
+Pilihan: 7
+Belum ada data.
+
+========================================
+        STUDENT GRADE MANAGER
+========================================
+1. Tampilkan semua mahasiswa
+2. Cari mahasiswa berdasarkan NIM
+3. Filter berdasarkan status
+4. Filter berdasarkan program studi
+5. Rekap per program studi
+6. Ranking nilai
+7. Ringkasan statistik
+8. Tambah mahasiswa
+9. Simpan JSON dan ekspor laporan CSV
+0. Keluar
+========================================
+Pilihan: 9
+Belum ada data untuk disimpan.
+
+========================================
+        STUDENT GRADE MANAGER
+========================================
+1. Tampilkan semua mahasiswa
+2. Cari mahasiswa berdasarkan NIM
+3. Filter berdasarkan status
+4. Filter berdasarkan program studi
+5. Rekap per program studi
+6. Ranking nilai
+7. Ringkasan statistik
+8. Tambah mahasiswa
+9. Simpan JSON dan ekspor laporan CSV
+0. Keluar
+========================================
+Pilihan: 0
+Selesai.

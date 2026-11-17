@@ -1,0 +1,3 @@
+# Tidak ada dependency eksternal.
+# Aplikasi hanya memakai standard library Python 3.10+:
+# argparse, csv, json, logging, pathlib, unittest

@@ -1,0 +1,11 @@
+> debug/skenario_1_bug_logika.py(1)<module>()
+-> """Skenario debugging 1: bug logika tanpa exception (if not score)."""
+(Pdb) Breakpoint 1 at debug/skenario_1_bug_logika.py:6
+(Pdb) > debug/skenario_1_bug_logika.py(6)label_nilai_bug()
+-> return "Belum ada nilai"
+(Pdb) score=None  bug -> Belum ada nilai  fix -> Belum ada nilai
+> debug/skenario_1_bug_logika.py(6)label_nilai_bug()
+-> return "Belum ada nilai"
+(Pdb) 0
+(Pdb) True
+(Pdb) 

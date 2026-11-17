@@ -1,0 +1,18 @@
+Andi 85
+Budi 72
+Citra 92
+Dewi 88
+Eka 0
+Fajar 64
+Gita 91
+Hadi 58
+Indah 80
+Joko 79
+Citra 92
+   77
+Kiki 101
+Traceback (most recent call last):
+  File "debug/skenario_2_traceback.py", line 6, in <module>
+    score = int(row["score"])
+            ^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'abc'

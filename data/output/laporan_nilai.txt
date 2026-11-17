@@ -1,0 +1,21 @@
+1. 2301001 | Andi | Teknik Komputer | 85 | 92% | Lulus
+2. 2301002 | Budi | Informatika | 72 | 81% | Remedial
+3. 2301003 | Citra | Teknik Komputer | 92 | 95% | Lulus dengan Pujian
+4. 2301004 | Dewi | Sistem Informasi | 88 | 70% | Peringatan Kehadiran
+5. 2301005 | Eka | Informatika | 0 | 80% | Tidak Lulus
+6. 2301006 | Fajar | Teknik Komputer | 64 | 76% | Remedial
+7. 2301007 | Gita | Sistem Informasi | 91 | 90% | Lulus dengan Pujian
+8. 2301008 | Hadi | Informatika | 58 | 85% | Tidak Lulus
+9. 2301009 | Indah | Teknik Komputer | 80 | 75% | Lulus
+10. 2301010 | Joko | Sistem Informasi | 79 | 60% | Peringatan Kehadiran
+11. 25831158 | Valentino | Teknik Komputer | 93 | 98% | Lulus dengan Pujian
+
+Jumlah: 11
+Rata-rata: 72.91
+Minimum: 0 | Maksimum: 93
+Lulus (termasuk pujian): 5
+  Lulus: 2
+  Remedial: 2
+  Lulus dengan Pujian: 3
+  Peringatan Kehadiran: 2
+  Tidak Lulus: 2
